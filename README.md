@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<figure><embed src="https://wakatime.com/share/@c8ce2275-d9b5-47cb-843d-cf014c6036f6/e95032e4-d79b-457c-b0ae-d02215530a0a.svg"></embed></figure>
