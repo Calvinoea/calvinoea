@@ -1,12 +1,5 @@
 ## Hi there 👋
 
- <!--START_SECTION:waka-->
-
-```txt
-HTML   0 secs          █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
 
 <!--
 **Calvinoea/calvinoea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
